@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import Header from '../components/Header'
 import Main from '../components/Main'
+import Second from '../components/Second'
 export default function Home() {
   return (
     <div>
@@ -11,7 +12,8 @@ export default function Home() {
       </Head>
       <div>
         <Header />
-        <Main/>
+        <Main />
+        <Second/>
       </div>
     </div>
   )
