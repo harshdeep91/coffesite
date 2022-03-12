@@ -1,0 +1,89 @@
+.group18 {
+    position: absolute;
+    left: 435px;
+    top: 316px;
+    width: 1165.68px;
+    height: 564.24px;
+  }
+  
+  .been{
+    position: absolute;
+    left: 665.68px;
+    top: 0px;
+    width: 500px;
+    height: 564.24px;
+    background:  url("https://lun-us.icons8.com/a/3NyPdiM-M0WGs2DiJFmRPw/43mEEsarmkiTuTl3uxx82w/5de3a6928b658800017e5e2b.png")  no-repeat;
+  }
+  
+  .group17 {
+    position: absolute;
+    left: 0px;
+    top: 130.8px;
+    width: 525px;
+    height: 350.8px;
+  }
+  
+  .coffeeIsOu {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 405px;
+    height: 54px;
+    color: #25160d;
+    font-family: Poppins;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 54px;
+    letter-spacing: 1px;
+  }
+  
+  .wemustbear {
+    position: absolute;
+    left: 0px;
+    top: 95.2px;
+    width: 525px;
+    height: 154px;
+    color: #160c0a;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 27px;
+    letter-spacing: 1px;
+  }
+  
+  .group {
+    position: absolute;
+    left: 0px;
+    top: 269.8px;
+    width: 284px;
+    height: 81px;
+  }
+  
+  .rectangle2 {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 284px;
+    height: 81px;
+    border-radius: 50px;
+    background: #4d3f3b;
+    background-blend-mode: normal;
+  }
+  
+  .visitOurSt {
+    position: absolute;
+    left: 35.5px;
+    top: 10.01px;
+    width: 213px;
+    height: 60.98px;
+    color: #ffffff;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 27px;
+    text-align: center;
+    letter-spacing: 1px;
+    display: flex;
+    align-items: center;
+  }
+  

@@ -1,0 +1,116 @@
+
+  .group17 {
+    position: absolute;
+    left: 435px;
+    top: 83.6px;
+    width: 1087.22px;
+    height: 76px; 
+  }
+  
+  .group16 {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 240.8px;
+    height: 76px;
+  }
+  
+  .coffeeShop {
+    position: absolute;
+    left: 97.8px;
+    top: 18px;
+    width: 143px;
+    height: 40px;
+    color: #463933;
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 36px;
+  }
+  
+  .koalaicon {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 76px;
+    height: 76px;
+  }
+  
+  .group15 {
+    position: absolute;
+    left: 596px;
+    top: 18px;
+    width: 491.22px;
+    height: 28.6px;
+  }
+  
+  .homeText {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 66.4px;
+    height: 28.6px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    text-align: center;
+    letter-spacing: 1px;
+  }
+  
+  .products {
+    position: absolute;
+    left: 86.4px;
+    top: 0px;
+    width: 93.17px;
+    height: 28.6px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    text-align: center;
+    letter-spacing: 1px;
+  }
+  
+  .benefits {
+    position: absolute;
+    left: 199.56px;
+    top: 0px;
+    width: 84.6px;
+    height: 28.6px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    text-align: center;
+    letter-spacing: 1px;
+  }
+  
+  .contacts {
+    position: absolute;
+    left: 304.16px;
+    top: 0px;
+    width: 97.45px;
+    height: 28.6px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    text-align: center;
+    letter-spacing: 1px;
+  }
+  
+  .signIn {
+    position: absolute;
+    left: 421.62px;
+    top: 0px;
+    width: 69.61px;
+    height: 28.6px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    text-align: center;
+    letter-spacing: 1px;
+  }
+  
