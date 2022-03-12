@@ -1,0 +1,88 @@
+.group21 {
+    position: absolute;
+    left: 379px;
+    top: 2434px;
+    width: 1221px;
+    height: 740px;
+  }
+  
+  .group20 {
+    position: absolute;
+    left: 607px;
+    top: 45px;
+    width: 614px;
+    height: 695px;
+  }
+  
+  .groupCopy {
+    position: absolute;
+    left: 23px;
+    top: 614px;
+    width: 284px;
+    height: 81px;
+  }
+  
+  .rectangle2 {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 284px;
+    height: 81px;
+    border-radius: 50px;
+    background: #4d3f3b;
+    background-blend-mode: normal;
+  }
+  
+  .visitOurSt {
+    position: absolute;
+    left: 35.5px;
+    top: 10.01px;
+    width: 213px;
+    height: 60.98px;
+    color: #ffffff;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 27px;
+    text-align: center;
+    letter-spacing: 1px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .theControl {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 614px;
+    height: 80px;
+    font-family: Poppins;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 60px;
+    letter-spacing: 1px;
+  }
+  
+  .regardless {
+    position: absolute;
+    left: 0px;
+    top: 70px;
+    width: 536px;
+    height: 517px;
+    list-style-type: disc;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 27px;
+    letter-spacing: 1px;
+  }
+  
+  .coffeebrea {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 525px;
+    height: 596.26px;
+    background:  url("https://lun-us.icons8.com/a/O4-lqCUFUkupQ1MjzkXwNw/KRAmTk4xukK3kuScD2H5Hg/Coffee_break.png")  no-repeat;
+  }
+  
