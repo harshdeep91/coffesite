@@ -13,11 +13,12 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div>
+
         <Header />
         <Main />
         <Second />
         <Third />
-        <Fourth/>
+        <Fourth/> 
       </div>
     </div>
   )

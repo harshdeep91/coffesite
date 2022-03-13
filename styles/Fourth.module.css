@@ -1,7 +1,7 @@
 .group22 {
   position: absolute;
   left: -89px;
-  top: 3294px;
+  top: 3394px;
   width: 2009px;
   height: 1102.83px;
   display: flex;
@@ -11,7 +11,7 @@
   /* position: absolute; */
   left: -89px;
   top: 3401px;
-  width: 398.86px;
+  width: 350.86px;
   height: 423.07px;
   box-shadow: 0px 10px 4px rgba(100,100,100,0.5);
 }
@@ -20,7 +20,7 @@
   /* position: absolute; */
   left: 0px;
   top: 0px;
-  width: 398.86px;
+  width: 350.86px;
   height: 423.07px;
 }
 
@@ -44,21 +44,25 @@
   top: 32.62px;
   width: 105.32px;
   height: 100.64px;
+  margin-top: 4%;
   border-radius: 50.32px;
   background-image: url("https://lun-us.icons8.com/a/O4-lqCUFUkupQ1MjzkXwNw/80nNBfdi3ECYAZoUvUG29Q/Avatar.png");
 }
 
 .name {
   /* position: absolute; */
-  left: 35.11px;
-  top: 158.42px;
-  width: 136.53px;
-  height: 72px;
+  /* left: 35.11px; */
+  /* top: 158.42px; */
+  /* width: 150.53px; */
+  /* height: 72px; */
   font-family: Poppins;
   font-size: 24px;
   font-weight: 600;
-  line-height: 36px;
+  /* line-height: 36px; */
   letter-spacing: 1px;
+  /* padding-top:%; */
+  margin: 5%;
+  text-align: center;
 }
 
 .desc {
@@ -89,11 +93,26 @@
 
 .about{
   font-family: Poppins;
+  position: relative;
   font-size: 10px;
   font-weight: 700;
+  display: flex;
+  flex-wrap: wrap;
+  margin: auto;
   
+  padding: 1%;
+  /* top: 4010px; */
+  width: 820.7px;
+  height: 258.85px;
+  justify-content: space-between;
+  
+  align-items: center;
+  transform: scale(1, -1);
 }
-
+.ab{
+  margin-left: 8%;
+  margin-right: 8%;
+}
 .rectangleC {
   position: absolute;
   left: 0px;

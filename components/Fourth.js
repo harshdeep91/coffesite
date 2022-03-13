@@ -15,7 +15,7 @@ const Fourth = () => {
   }
   const Abouts = () => {
     const array = [1, 2, 3, 4, 5, 6, 7, 8, 9];
-    return array.map(() =><h1>About Us</h1>
+    return array.map((n) =><h1 className={styles.ab} key={n}>About Us</h1>
     )
   }
   return (
